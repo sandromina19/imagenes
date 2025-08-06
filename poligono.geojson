@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Área Central",
+        "tipo": "zonaA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-3.71, 40.42],
+          [-3.70, 40.42],
+          [-3.70, 40.41],
+          [-3.71, 40.41],
+          [-3.71, 40.42]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Zona Sur",
+        "tipo": "zonaB"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-3.72, 40.40],
+          [-3.71, 40.40],
+          [-3.71, 40.39],
+          [-3.72, 40.39],
+          [-3.72, 40.40]
+        ]]
+      }
+    }
+  ]
+}
